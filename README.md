@@ -16,6 +16,8 @@ Prezomba requests:
 * [_Mozilla Firefox_](https://www.mozilla.org/pt-BR/firefox/new/)
 * [_Zoom Meetings_](https://zoom.us/)
 
+[Click here to Download](https://github.com/Guiflayrom/PrezombaEXE)
+
 Then, with this in mind:
 
 1. Open **_/Prezomba 3.0 exe/Prezomba 3.0.exe_**
